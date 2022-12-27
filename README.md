@@ -1,14 +1,2 @@
 # Laravel-Projects
-List of all projects 
-  -> 
-  ->
-  ->
-  ->
-  ->
-  ->
-  ->
-  ->
-  ->
-  ->
-  ->
-  ->
+Includes a list of Laravel projects as soon as possible.
